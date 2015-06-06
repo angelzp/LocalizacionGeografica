@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localizacion Geografica</string>
+    <string name="posicion_actual">Posicion Actual</string>
+    <string name="activar">Activar</string>
+    <string name="desactivar">Desactivar</string>
+    <string name="estado_proveedor">Estado Proveedor</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
